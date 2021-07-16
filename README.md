@@ -1,2 +1,3 @@
 # practice-projects
-This is my first repository for practicing ML projects. It will include all of my practice projects using different algorithms.
+PROJECTS USING VARIOUS DATA PROCESSING TECHNIQUES AND MODEL CREATION TECHNIQUES.
+#PCA// #PIPELINE_IMPLEMENTATION//  #SVM // #DBSCAN 
